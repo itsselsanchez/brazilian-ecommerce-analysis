@@ -1,0 +1,20 @@
+# Data files
+data/
+
+# Jupyter
+*.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VSCode
+.vscode/
