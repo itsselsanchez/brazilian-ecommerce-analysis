@@ -12,5 +12,6 @@ Using the Olist Brazilian e-commerce dataset, this project explores the patterns
   |- 01_data_preparation_and_merging.ipynb  ✅ (complete)
   |- 02_exploratory_data_analysis.ipynb     🚧 (in progress)
 |- config.py
+|- .gitignore
 |- README.md
 ```
